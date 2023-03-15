@@ -342,12 +342,9 @@ textarea {
     text-align: center;
   }
 
-  .fontawesome-icon {
-
-  }
-
-  .features-item-description {
-
+  .features i {
+    font-size: 3.75em;
+    margin-bottom: 40px;
   }
 
   /* Reviews */
